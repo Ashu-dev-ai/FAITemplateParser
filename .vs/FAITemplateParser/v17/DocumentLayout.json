@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\faitemplateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\faitemplateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\imagecompressorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\imagecompressorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\exceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\exceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\npoiexceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\npoiexceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\ole10native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\ole10native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\zipfileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\zipfileextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\xlversionmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\xlversionmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\sharepointhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\sharepointhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\pdfextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\pdfextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\utilities\\embeddeddatareaderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\utilities\\embeddeddatareaderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|c:\\users\\ashutosh\\onedrive - microsoft\\desktop\\faitemplateparsers360\\faitemplateparser\\faitemplateparser\\faitemplateparser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8301FD48-6611-4B29-82E4-7CD54BB4F28E}|FAITemplateParser\\FAITemplateParser.csproj|solutionrelative:faitemplateparser\\faitemplateparser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dobakkia\\AppData\\Local\\SourceServer\\3c4eaa0e2aaaf982bc09ba091cf175679d63c116fed33bb6e8eeaee998823710\\src\\WebJobs.Extensions\\Extensions\\Timers\\Listener\\TimerListener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZipFileExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ZipFileExtractor.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\ZipFileExtractor.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ZipFileExtractor.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\ZipFileExtractor.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:54:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XLVersionModifier.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\XLVersionModifier.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\XLVersionModifier.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\XLVersionModifier.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\XLVersionModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:54:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PDFExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\PDFExtractor.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\PDFExtractor.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\PDFExtractor.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\PDFExtractor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:53:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ole10Native.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\Ole10Native.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\Ole10Native.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\Ole10Native.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\Ole10Native.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAIwCIBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:53:49.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\LogException.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\LogException.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\LogException.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\LogException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:53:35.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageCompressorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ImageCompressorHelper.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\ImageCompressorHelper.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ImageCompressorHelper.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\ImageCompressorHelper.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:53:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ExceptionHandler.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\ExceptionHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:53:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\local.settings.json",
+              "RelativeDocumentMoniker": "FAITemplateParser\\local.settings.json",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\local.settings.json",
+              "RelativeToolTip": "FAITemplateParser\\local.settings.json",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T09:44:54.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ExcelDataReader.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\ExcelDataReader.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\ExcelDataReader.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\ExcelDataReader.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAUwIAAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\SqlHelper.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\SqlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NPOIExcelDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\NPOIExcelDataReader.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\NPOIExcelDataReader.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\NPOIExcelDataReader.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\NPOIExcelDataReader.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwEIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FAITemplateParser.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\FAITemplateParser.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\FAITemplateParser.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\FAITemplateParser.cs",
+              "RelativeToolTip": "FAITemplateParser\\FAITemplateParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SharePointHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\SharePointHelper.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\SharePointHelper.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\SharePointHelper.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\SharePointHelper.cs",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAUwJsBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmbeddedDataReaderHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\EmbeddedDataReaderHelper.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\EmbeddedDataReaderHelper.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\EmbeddedDataReaderHelper.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\EmbeddedDataReaderHelper.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAIwE0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\Globals.cs",
+              "RelativeDocumentMoniker": "FAITemplateParser\\Utilities\\Globals.cs",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\Utilities\\Globals.cs",
+              "RelativeToolTip": "FAITemplateParser\\Utilities\\Globals.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:42:38.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FAITemplateParser",
+              "DocumentMoniker": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\FAITemplateParser.csproj",
+              "RelativeDocumentMoniker": "FAITemplateParser\\FAITemplateParser.csproj",
+              "ToolTip": "C:\\Users\\Ashutosh\\OneDrive - Microsoft\\Desktop\\FAITemplatePArserS360\\FAITemplateParser\\FAITemplateParser\\FAITemplateParser.csproj",
+              "RelativeToolTip": "FAITemplateParser\\FAITemplateParser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T09:42:38.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimerListener.cs",
+              "DocumentMoniker": "C:\\Users\\dobakkia\\AppData\\Local\\SourceServer\\3c4eaa0e2aaaf982bc09ba091cf175679d63c116fed33bb6e8eeaee998823710\\src\\WebJobs.Extensions\\Extensions\\Timers\\Listener\\TimerListener.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\dobakkia\\AppData\\Local\\SourceServer\\3c4eaa0e2aaaf982bc09ba091cf175679d63c116fed33bb6e8eeaee998823710\\src\\WebJobs.Extensions\\Extensions\\Timers\\Listener\\TimerListener.cs",
+              "ToolTip": "C:\\Users\\dobakkia\\AppData\\Local\\SourceServer\\3c4eaa0e2aaaf982bc09ba091cf175679d63c116fed33bb6e8eeaee998823710\\src\\WebJobs.Extensions\\Extensions\\Timers\\Listener\\TimerListener.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dobakkia\\AppData\\Local\\SourceServer\\3c4eaa0e2aaaf982bc09ba091cf175679d63c116fed33bb6e8eeaee998823710\\src\\WebJobs.Extensions\\Extensions\\Timers\\Listener\\TimerListener.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAWwEUBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-08T21:14:17.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
