@@ -34,7 +34,7 @@ namespace FAITemplateParser
             log.LogInformation($"FAITemplateParser started at: {DateTime.Now}");
             try
             {
-                //Load Sharepoint metadata for SI Sites to load FAI templates
+                // //Load Sharepoint metadata for SI Sites to load FAI templates
 
                 Globals.InitializeGlobals();
                 string module = System.Reflection.MethodInfo.GetCurrentMethod().Name.ToString();
